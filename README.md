@@ -7,9 +7,9 @@
 ## 1. Изтегляне
 Файлове стиловете на цитиране може да бъде изтеглен от това хранилище
 
-* Стилът за теоретични, методически, лингвистични, или литературоведски статии за специализираното научно списание „[Български език и литература](https://azbuki.bg/bel/)“.
+* [`BEL.csl`](https://github.com/FATelarico/citationstyles/blob/main/BEL.csl) | Стилът за теоретични, методически, лингвистични, или литературоведски статии за специализираното научно списание „[Български език и литература](https://azbuki.bg/bel/)“.
 
-* Стилът за доклади, представени на Международната интердисциплинарна конференция по българистика (ICBS; достъпен и от [Mendeley](https://csl.mendeley.com/styles/712458141/ISCBM-v1)).
+* [`ISCBM-v1.csl`](https://github.com/FATelarico/citationstyles/blob/main/ISCBM-v1.csl) | Стилът за доклади, представени на Международната интердисциплинарна конференция по българистика (ICBS; достъпен и от [Mendeley](https://csl.mendeley.com/styles/712458141/ISCBM-v1))
 
 ## 3. Инсталиране
 За да използвате този стил на цитиране, е необходим софтуер за управление на препратки (препоръчително: [Zotero](https://www.zotero.org/download/). безплатен, лесен за използване инструмент с отворен код, който ви помага да събирате, организирате, анотирате, цитирате и споделяте изследвания). За да инсталирате този стил в най-използваните референтни мениджъри, следвайте следните стъпки: 
@@ -46,9 +46,9 @@
 ## 1. Download
 The files can be downloaded from this repository:
 
-* The style for theoretical, methodological, linguistic, or literary articles for the specialized scientific journal "[Bulgarian Language and Literature](https://azbuki.bg/bel/)".
+* [`BEL.csl`](https://github.com/FATelarico/citationstyles/blob/main/BEL.csl) | The style for theoretical, methodological, linguistic, or literary articles for the specialized scientific journal "[Bulgarian Language and Literature](https://azbuki.bg/bel/)".
 
-* The style for papers presented at the International Interdisciplinary Conference on Bulgarian Studies (ICBS, also available from [Mendeley](https://csl.mendeley.com/styles/712458141/ISCBM-v1)).
+* [`ISCBM-v1.csl`](https://github.com/FATelarico/citationstyles/blob/main/ISCBM-v1.csl) | The style for papers presented at the International Interdisciplinary Conference on Bulgarian Studies (ICBS, also available from [Mendeley](https://csl.mendeley.com/styles/712458141/ISCBM-v1)).
 
 ## 2. Install
 A reference management software is required to use this citation style (recommended: [Zotero](https://www.zotero.org/download/). a free, easy-to-use, open-source tool to help you collect, organize, annotate, cite, and share research). To install this style in the most used reference managers follows these steps: 
