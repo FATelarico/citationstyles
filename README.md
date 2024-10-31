@@ -5,9 +5,11 @@
 # На български 
 
 ## 1. Изтегляне
-Файлът със стила на цитиране може да бъде изтеглен от това хранилище.
+Файлове стиловете на цитиране може да бъде изтеглен от това хранилище
 
-Стилът за доклади, представени на Международната интердисциплинарна конференция по българистика е достъпен и от Mendeley ([ICBS](https://csl.mendeley.com/styles/712458141/ISCBM-v1)).
+* Стилът за теоретични, методически, лингвистични, или литературоведски статии за специализираното научно списание „[Български език и литература](https://azbuki.bg/bel/)“.
+
+* Стилът за доклади, представени на Международната интердисциплинарна конференция по българистика (ICBS; достъпен и от [Mendeley](https://csl.mendeley.com/styles/712458141/ISCBM-v1)).
 
 ## 3. Инсталиране
 За да използвате този стил на цитиране, е необходим софтуер за управление на препратки (препоръчително: [Zotero](https://www.zotero.org/download/). безплатен, лесен за използване инструмент с отворен код, който ви помага да събирате, организирате, анотирате, цитирате и споделяте изследвания). За да инсталирате този стил в най-използваните референтни мениджъри, следвайте следните стъпки: 
@@ -42,9 +44,11 @@
 # In English 
 
 ## 1. Download
-The citation-style file can be downloaded from this repository, as well as from Mendeley: 
+The files can be downloaded from this repository:
 
-The style for papers presented at the International Interdisciplinary Conference on Bulgarian Studies is also available from Mendeley ([ICBS](https://csl.mendeley.com/styles/712458141/ISCBM-v1)).
+* The style for theoretical, methodological, linguistic, or literary articles for the specialized scientific journal "[Bulgarian Language and Literature](https://azbuki.bg/bel/)".
+
+* The style for papers presented at the International Interdisciplinary Conference on Bulgarian Studies (ICBS, also available from [Mendeley](https://csl.mendeley.com/styles/712458141/ISCBM-v1)).
 
 ## 2. Install
 A reference management software is required to use this citation style (recommended: [Zotero](https://www.zotero.org/download/). a free, easy-to-use, open-source tool to help you collect, organize, annotate, cite, and share research). To install this style in the most used reference managers follows these steps: 
